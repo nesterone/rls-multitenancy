@@ -1,1 +1,0 @@
-Can I set app config as list of UUIDS ? 
