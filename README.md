@@ -1,6 +1,7 @@
 # Multi-tenancy with RLS
 
-Just go over `init.sql` and execute statement by statement, play with basic RLS
+1. Run `docker compose` 
+2. Just go over `init.sql` and execute statement by statement, play with basic RLS
 
 
 ## Approaches
