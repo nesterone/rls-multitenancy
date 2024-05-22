@@ -8,4 +8,4 @@ Solution
 Deep Dive in RLS 
 
 * [Exploring Row Level Security In PostgreSQL](https://pgdash.io/blog/exploring-row-level-security-in-postgres.html)
-* [Multiple Tenant with ARRAY](https://dev.to/yugabyte/postgresql-row-level-security-with-an-array-of-tenants-2136)
+* [Multiple Tenant with ARRAY](https://dev.to/yugabyte/postgresql-row-level-security-with-an-array-of-tenants-2136)# rls-multitenancy
