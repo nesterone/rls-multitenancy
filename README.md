@@ -1,29 +1,11 @@
-Can I set app config as list of UUIDS ? 
 
-What about multiple tenants for shared resources?
+Solution
 
-
-
-What about performance issues if each request wrapped in db transaction ?
+1. [Sass Lense - Silo, Pool and Bridge](https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/silo-pool-and-bridge-models.html)
+1. [Multi-tenant data isolation with PostgreSQL Row Level Security]()
 
 
+Deep Dive in RLS 
 
-
-
-
-Todo list 
-
-
-- add one-to many tenants without intermediate table
-
-Do we need all tables with tenantId  ? what about shared resources
-
-
-
-
-what about Using sequence numbers ?
-
-what about testing on milions ?
-
-
-what about wrapping each request in transaction ?
+* [Exploring Row Level Security In PostgreSQL](https://pgdash.io/blog/exploring-row-level-security-in-postgres.html)
+* [Multiple Tenant with ARRAY](https://dev.to/yugabyte/postgresql-row-level-security-with-an-array-of-tenants-2136)
